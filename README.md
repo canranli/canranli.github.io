@@ -1,2 +1,2 @@
 # canranli.github.io
-canran.li
+www.canran.li
